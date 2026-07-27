@@ -1,6 +1,6 @@
 # 01 — Individual Problem Scan
 
-> Bối cảnh cá nhân: Sinh viên đang thực tập / làm part-time. Công việc hằng tuần gồm: làm bài tập và dự án nhóm ở trường, họp nhóm thường xuyên, xử lý data / phân tích số liệu, xây dựng dự án.
+> Bối cảnh cá nhân: Sinh viên năm cuối vừa học vừa đi thực tập. Công việc hằng tuần gồm: làm bài tập và dự án nhóm ở trường, họp nhóm thường xuyên, xử lý data và xây dựng dự án công ty và đồ án. Hầu hết các vấn đề đều xuất phát từ trải nghiệm học tập và đi làm thực tế.
 
 ---
 
